@@ -33,12 +33,12 @@ Because the dataset contains more non-default cases than default cases, accuracy
 The primary focus was the F1-score, while recall, balanced accuracy, and processing times were considered alongside it to provide a broader assessment of each model's usefulness for loan-default prediction.
 The confusion matrices below show how the two best-performing models, Random Forest and Deep Neural Network, correctly identified loan defaults and non-defaults and where their predictions were incorrect.
 
-     <p align="center">
-  <img src="Images/ph1.png" width="700" alt="Loan Default Risk Prediction banner">
+<p align="center">
+  <img src="Images/ph1.png" width="300" alt="Loan Default Risk Prediction banner">
 </p>
 
 <p align="center">
-  <img src="Images/ph2.png" width="700" alt="Loan Default Risk Prediction banner">
+  <img src="Images/ph2.png" width="300" alt="Loan Default Risk Prediction banner">
 </p>
 
 ## 7. Model Comparison and Results
