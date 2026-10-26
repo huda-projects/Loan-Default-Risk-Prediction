@@ -36,7 +36,7 @@ The confusion matrices below show how the two best-performing models, Random For
 <p align="center">
   <img src="Images/ph1.png" width="350" alt="Project screenshot 1">
   &nbsp;&nbsp;
-  <img src="Images/ph2.png" width="310" alt="Project screenshot 2">
+  <img src="Images/ph2.png" width="320" alt="Project screenshot 2">
 </p>
 
 
