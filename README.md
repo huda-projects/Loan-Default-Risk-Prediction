@@ -10,7 +10,7 @@ Can we identify borrowers who are at higher risk of default so that a financial 
 
 ### Business Objective
 The objective of this project is to develop and compare machine learning classification models that identify borrowers at risk of loan default using historical borrower and loan data. Model performance will be evaluated using appropriate metrics, with particular emphasis on the F1-score because the dataset contains more non-default than default cases.
-The findings aim to identify a suitable predictive model that can help financial institutions assess credit risk more effectively, while recognizing that model predictions should support—not replace—professional lending decisions.
+The findings aim to identify a suitable predictive model that can help financial institutions assess credit risk more effectively, while recognizing that model predictions should support professional lending decisions.
 
 ## 3. Dataset Overview
 The project uses the publicly available Loan Default Dataset from Kaggle, containing 148,670 observations and 34 original features. The target variable, Status, indicates whether a borrower defaulted on a loan (1) or did not default (0).
