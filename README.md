@@ -45,8 +45,9 @@ The classification models were compared to determine how effectively they could 
 
  <p align="center">
   <img src="Images/ph3.png" width="700" alt="Loan Default Risk Prediction banner">
+   Figure 1. Performance and computational efficiency of the evaluated models.
 </p>
-Figure 1. Performance and computational efficiency of the evaluated models.
+
 
 The results show that Random Forest achieved the highest F1-score of 0.5542 (55.42%), along with an accuracy of 86.64%. In practical terms, accuracy indicates how often the model's predictions were correct overall, while the F1-score provides a more balanced view of how well it identifies potential defaulters without relying too heavily on one type of prediction. Random Forest also achieved the highest precision (60.44%) among the evaluated models. This means that, among borrowers it predicted would default, approximately 60 out of every 100 actually defaulted.
 
