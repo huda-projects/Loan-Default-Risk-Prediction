@@ -7,6 +7,7 @@ This project focuses on developing and evaluating machine learning models to pre
 ## 2. Research Question and Business Objective
 Research Question
 Can we identify borrowers who are at higher risk of default so that a financial institution can make better lending and credit-risk decisions?
+
 Business Objective
 The objective of this project is to develop and compare machine learning classification models that identify borrowers at risk of loan default using historical borrower and loan data. Model performance will be evaluated using appropriate metrics, with particular emphasis on the F1-score because the dataset contains more non-default than default cases.
 The findings aim to identify a suitable predictive model that can help financial institutions assess credit risk more effectively, while recognizing that model predictions should support—not replace—professional lending decisions.
