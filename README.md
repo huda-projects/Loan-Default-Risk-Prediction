@@ -45,7 +45,6 @@ The classification models were compared to determine how effectively they could 
 
  <p align="center">
   <img src="Images/ph3.png" width="700" alt="Loan Default Risk Prediction banner">
-   Figure 1. Performance and computational efficiency of the evaluated models.
 </p>
 
 
@@ -54,7 +53,6 @@ The results show that Random Forest achieved the highest F1-score of 0.5542 (55.
 <p align="center">
   <img src="Images/ph4.png" width="700" alt="Loan Default Risk Prediction banner">
 </p> 
-Figure 2. Comparison of precision, recall, F1-score, and training time across models.
 
 The results also highlight a trade-off between the models. The Decision Tree achieved the highest recall (65.67%), meaning it identified a larger share of actual defaults than the other models listed. However, its F1-score was lower (48.08%) than Random Forest's. In a lending context, higher recall can help identify more borrowers who may default, but it can also mean flagging more borrowers who would not default. The Deep Neural Network ranked second in F1-score at 53.43%, close to Random Forest, but did not outperform it on the primary metric.
 Overall, Random Forest was selected as the leading candidate because it achieved the highest F1-score while also maintaining strong overall accuracy and precision. The final decision considered the balance between identifying potential defaults and avoiding incorrect risk flags, rather than relying on accuracy alone. These results can help inform credit-risk assessment, but model predictions should support further review rather than determine lending decisions on their own.
