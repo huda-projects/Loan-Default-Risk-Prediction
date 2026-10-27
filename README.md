@@ -25,8 +25,7 @@ The analysis also found relationships among loan characteristics, particularly b
 Overall, the findings indicate that borrower finances, loan structure, and repayment characteristics can help distinguish groups with different observed levels of default risk. 
 
 ## 5. Modeling Approach
-The prepared dataset was used to develop and compare multiple classification models for predicting loan default. The modeling process included Logistic Regression as a baseline, followed by Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Linear Support Vector Machine (SVM), Gradient Boosting, Voting Classifier, and Deep Neural Network models.
-The data was divided into training and testing sets, with preprocessing applied as part of the modeling workflow. Cross-validation and GridSearchCV were used to evaluate model performance and tune selected hyperparameters. The models were then compared using consistent evaluation metrics to identify the most suitable approach for predicting loan default.
+The prepared dataset was used to develop and compare multiple classification models for predicting loan default. The modeling process included Logistic Regression as a baseline, followed by Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Linear Support Vector Machine (SVM), Gradient Boosting, Voting Classifier, and Deep Neural Network models. Cross-validation and GridSearchCV were used to evaluate model performance and tune selected hyperparameters. The models were then compared using consistent evaluation metrics to identify the most suitable approach for predicting loan default.
 
 ## 6. Model Evaluation Metrics
 The models were evaluated using accuracy, precision, recall, F1-score, and balanced accuracy. Training and prediction times were also recorded to compare computational efficiency.
