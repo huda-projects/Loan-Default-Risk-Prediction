@@ -5,10 +5,10 @@
 This project focuses on developing and evaluating machine learning models to predict loan default using historical borrower and loan data. Building on the earlier exploratory data analysis and baseline model, this phase compares multiple classification algorithms and uses cross-validation and hyperparameter tuning to improve predictive performance. The results are evaluated to identify a suitable model that can support financial institutions in assessing credit risk and making more informed lending decisions.
 
 ## 2. Research Question and Business Objective
-Research Question
+### Research Question
 Can we identify borrowers who are at higher risk of default so that a financial institution can make better lending and credit-risk decisions?
 
-Business Objective
+### Business Objective
 The objective of this project is to develop and compare machine learning classification models that identify borrowers at risk of loan default using historical borrower and loan data. Model performance will be evaluated using appropriate metrics, with particular emphasis on the F1-score because the dataset contains more non-default than default cases.
 The findings aim to identify a suitable predictive model that can help financial institutions assess credit risk more effectively, while recognizing that model predictions should support—not replace—professional lending decisions.
 
